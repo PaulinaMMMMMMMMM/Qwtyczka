@@ -1,0 +1,2 @@
+# Qwtyczka
+wtyczka do qgisa
